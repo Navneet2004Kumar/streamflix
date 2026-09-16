@@ -1,6 +1,6 @@
 
 
-🎬 Netflix Clone (ReactJS)
+🎬 Netflix 
 
 A modern Netflix-inspired web application built using React.js, featuring dynamic rows, a responsive banner, and categorized movies — just like the real Netflix UI.
 
@@ -26,6 +26,5 @@ Vite / Create React App – Development setup
 
 Local images – For banners and thumbnails
 
-## view on netlify
-https://friendly-gumdrop-d38035.netlify.app/
+
 
