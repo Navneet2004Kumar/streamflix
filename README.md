@@ -70,43 +70,7 @@ flowchart TD
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📁 Project Structure
 
-```text
-streamflix-main/
-│
-├── App.js
-├── App.css
-├── index.js
-├── index.css
-│
-├── components/
-│   ├── Navbar.js
-│   ├── Navbar.css
-│   ├── Banner.js
-│   ├── Banner.css
-│   ├── Row.js
-│   ├── Row.css
-│   ├── MovieCard.js
-│   ├── MovieCard.css
-│   ├── Footer.js
-│   └── Footer.css
-│
-├── images/
-│   ├── breakingbad.jpeg
-│   ├── stranger.png
-│   ├── moneyheist.jpeg
-│   ├── peakyblinders.jpeg
-│   └── ...
-│
-└── public/
-    ├── index.html
-    ├── favicon.ico
-    ├── manifest.json
-    └── robots.txt
-```
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🔄 Application Flow
 
